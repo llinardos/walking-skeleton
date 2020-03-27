@@ -5,7 +5,7 @@ class RedVCShould: XCTestCase {
   func test_beRed() {
     let sut = RedVC()
     sut.loadViewForTests()
-    XCTAssertEqual(sut.view.backgroundColor, .red)
+    XCTAssertEqual(sut.view.backgroundColor, .red, "RedVC should be red")
   }
 }
 
