@@ -38,6 +38,26 @@
                ReferencedContainer = "container:WalkingSkeleton.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D50BCFB2434ECB3008E1814"
+               BuildableName = "EndToEnd.xctest"
+               BlueprintName = "EndToEnd"
+               ReferencedContainer = "container:WalkingSkeleton.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0D50BD092434EDA8008E1814"
+               BuildableName = "EndToEndTests.xctest"
+               BlueprintName = "EndToEndTests"
+               ReferencedContainer = "container:WalkingSkeleton.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
